@@ -1,0 +1,3 @@
+To identify what is happening on client system in a browser following tools will be helpful
+1.To collect a network log in Edge, simply navigate a tab to edge://net-export (in Google Chrome, you’d visit chrome://net-export instead).
+2.To examine the log use https://netlog-viewer.appspot.com/#import
